@@ -33,6 +33,19 @@ bower_components
 build/Release
 
 # Dependency directories
+
+.grunt
+
+# Bower dependency directory (https://bower.io/)
+bower_comp
+.grunt
+
+# Bower dependency directory (https://bower.io/)
+bower_comp
+.grunt
+
+# Bower dependency directory (https://bower.io/)
+bower_comp
 node_modules/
 jspm_packages/
 
@@ -44,6 +57,37 @@ typings/
 
 # Optional eslint cache
 .eslintcache
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+
 
 # Optional REPL history
 .node_repl_history
